@@ -1,0 +1,3 @@
+bcoding==1.5
+bitstring==3.1.7
+requests==2.25.1
